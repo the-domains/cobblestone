@@ -1,14 +1,14 @@
-layout_spectrum: 0.6077334459405392
-typography_spectrum: 0.5766102701891214
+layout_spectrum: 0.4998806216754019
+typography_spectrum: 0.9960980482865125
 color:
-  brandStrength: 0.2493479761760682
-  lightness: 0.8286566340830177
-  saturation: 0.5162874176166952
-  rhythmicContrast: 0.776704873656854
+  brandStrength: 0.7078398091252893
+  lightness: 0.3535082722082734
+  saturation: 0.8063386792782694
+  rhythmicContrast: 0.3253949237987399
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Cobblestone
