@@ -10,20 +10,17 @@ description: >-
   1-1,5 мм! При этом объемы производства завода по производству гранитной
   брусчатки немаленькие и постоянно растут, потому необходимо тщательно следить
   за качеством каждой плитки, независимо от объемов.
-dateModified: '2016-07-21T13:19:37.930Z'
-datePublished: '2016-07-21T13:28:23.042Z'
+dateModified: '2016-07-21T13:36:19.453Z'
+datePublished: '2016-07-21T13:36:20.123Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f6fdc4-49a9-4f8b-89a0-3b6efcd2226a.jpg
 sourcePath: >-
   _posts/2016-07-21-tehnologiya-izgotovleniya-granitnoj-bruschatkikogda-smotrish-na.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tehnologiya-izgotovleniya-granitnoj-bruschatkikogda-smotrish-na/index.html
 _type: MediaObject
 
 ---
