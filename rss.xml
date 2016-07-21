@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Cobblestone]]></title>
         <description><![CDATA[Cobblestone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cobblestone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 14:18:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 14:18:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cobblestone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c80995fb-e00e-4591-80d9-bf70ecf2bccf.jpg">]]></description>
+            <link>https://thegrid.ai/cobblestone/b82a05c3-3fbf-4d36-8ca7-a6ca7c978a7b/index.html</link>
+            <guid isPermaLink="false">b82a05c3-3fbf-4d36-8ca7-a6ca7c978a7b</guid>
+            <pubDate>Thu, 21 Jul 2016 14:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Гарантия 100 лет]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1258f08-b5ac-482b-83a6-fed5a437eba4.jpg" alt="&Gcy;&acy;&rcy;&acy;&ncy;&tcy;&icy;&yacy; 100 &lcy;&iecy;&tcy;">]]></description>
