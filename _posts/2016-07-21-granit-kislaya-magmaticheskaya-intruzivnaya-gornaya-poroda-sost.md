@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-21T13:32:26.884Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9598aeb-4e54-408a-8e75-bb9adf21c0c2.jpg
+datePublished: '2016-07-21T13:35:12.327Z'
 author: []
 via: {}
-dateModified: '2016-07-21T13:32:09.885Z'
+dateModified: '2016-07-21T13:35:11.558Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,12 +10,11 @@ description: >-
   плагиоклаза, калиевого полевого шпата и слюд — биотита и/или мусковита.
   Плотность гранита — 2600 кг/м³, прочность на сжатие до 300 МПа. Это одна из
   самых плотных, твёрдых и прочных пород.
-starred: false
 sourcePath: >-
   _posts/2016-07-21-granit-kislaya-magmaticheskaya-intruzivnaya-gornaya-poroda-sost.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: granit-kislaya-magmaticheskaya-intruzivnaya-gornaya-poroda-sost/index.html
 _type: MediaObject
 
 ---
