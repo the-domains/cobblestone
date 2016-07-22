@@ -1,16 +1,16 @@
-layout_spectrum: 0.4998806216754019
-typography_spectrum: 0.9960980482865125
+layout_spectrum: 0.19656179449521005
+typography_spectrum: 0.9616304547525942
 color:
-  brandStrength: 0.7078398091252893
-  lightness: 0.3535082722082734
-  saturation: 0.8063386792782694
-  rhythmicContrast: 0.3253949237987399
+  brandStrength: 0.1374135371297598
+  lightness: 0.6838494571857154
+  saturation: 0.6349757190328091
+  rhythmicContrast: 0.5888569788075984
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: Cobblestone
 navigation:
   - id: 1a9321d3-d205-4982-9388-776a9bb626db
