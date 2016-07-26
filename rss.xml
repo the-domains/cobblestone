@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Cobblestone]]></title>
         <description><![CDATA[Cobblestone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cobblestone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 09:13:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 09:26:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cobblestone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3debddc6-5424-4965-ad1a-dc65e668bd05.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3debddc6-5424-4965-ad1a-dc65e668bd05.jpg</link>
+            <guid isPermaLink="false">c4365a2d-3e96-4a5c-b914-fbcb2d05ecb2</guid>
+            <pubDate>Tue, 26 Jul 2016 09:26:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ТОО “Казгранит”]]></title>
             <description><![CDATA[<article><h1>ТОО “Казгранит”</h1><p>«Компания КАЗГРАНИТ» является одной из ведущих казахстанских компания по производству товарных гранитных блоков и изделий из природного камня. Компания была образована в 2009 году и существовала как торговая компания. В процессе развития было принято решение создать свой производственно-складской комплекс. Мы завоевали не только статус, доверие и уважение, но и постоянных серьезных клиентов. Сильная команда профессионалов позволяет нам выполнять любые сложности проекты.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d27a73c3-889e-4747-bea7-a3517f2d2df0.jpg"></article>]]></description>
